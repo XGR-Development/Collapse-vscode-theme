@@ -1,0 +1,32 @@
+{
+  "name": "collapse",
+  "displayName": "Collapse",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "XGR Development",
+  "homepage": "https://github.com/XGR-Development/Collapse-vscode-theme",
+	"repository": {
+		"url": "https://github.com/XGR-Development/Collapse-vscode-theme",
+		"type": "git"
+	},
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Collapse Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Collapse Dark-color-theme.json"
+      },
+      {
+        "label": "Collapse Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Collapse Purple-color-theme.json"
+      }
+    ]
+  }
+}
