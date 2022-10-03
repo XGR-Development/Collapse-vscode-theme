@@ -1,8 +1,9 @@
 {
   "name": "collapse",
   "displayName": "Collapse",
-  "description": "",
+  "description": "A simple Visual Studio Code theme featuring purple and dark colors.",
   "version": "0.0.1",
+  "icon": "icon.png",
   "publisher": "XGR Development",
   "homepage": "https://github.com/XGR-Development/Collapse-vscode-theme",
 	"repository": {
