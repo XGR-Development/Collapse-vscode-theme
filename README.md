@@ -9,7 +9,7 @@ Collapse Dark
 Collapse Purple
 ![Screenshot - Collapse Purple](https://github.com/XGR-Development/Collapse-vscode-theme/blob/main/static/collapse-purple-screenshot.png)
 
-## Color Palette
+## Color Palette (Outdated | Obsolete)
 #### Collapse Dark
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
 | ---------- | ------------------------------------------------------------ |
