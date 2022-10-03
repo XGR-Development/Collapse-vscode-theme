@@ -1,4 +1,5 @@
 # [Collapse]
+![Collapse Logo](https://github.com/XGR-Development/Collapse-vscode-theme/blob/main/icon.ico)
 <br><br> A simple Visual Studio Code theme featuring purple and dark colors.
 
 ## Screenshots
