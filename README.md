@@ -13,7 +13,7 @@ Collapse Purple
 #### Collapse Dark
 | Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
 | ---------- | ------------------------------------------------------------ |
-| ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
+| ![#18081c](https://place-hold.it/15/18081c/18081c?text=+) ![#3a1147](https://place-hold.it/15/3a1147/3a1147?text=+) ![#48366b](https://place-hold.it/15/48366b/48366b?text=+) | `#18081c` `#3a1147` `#48366b`| Everything related to backgrounds and borders |
 | ![#ff9e64](https://place-hold.it/15/ff9e64/ff9e64?text=+) `#ff9e64` | Number and Boolean constants, Language support constants |
 | ![#e0af68](https://place-hold.it/15/e0af68/e0af68?text=+) `#e0af68` | Function parameters, Regex character sets, Terminal Yellow |
 | ![#9ece6a](https://place-hold.it/15/9ece6a/9ece6a?text=+) `#9ece6a` | Strings, CSS class names |
