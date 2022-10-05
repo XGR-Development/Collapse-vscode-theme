@@ -13,6 +13,6 @@ Not to work less but I am not used to Markdown so palettes are a bit harsh to wr
 #### **Collapse Purple**
 
 Just check out the colors in :  
-`.vscode/extension/xgr-collapse-v0.1.0/themes/Collapse Purple-color-theme.json`
+`.vscode/extension/xgr-development.collapse-0.1.0/themes/Collapse Purple-color-theme.json`
 
 The colors are basically : Purple, Pink, Blue & a bit of yellow, orange and red.
