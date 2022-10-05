@@ -9,7 +9,9 @@ Collapse Dark
 Collapse Purple
 ![Screenshot - Collapse Purple](https://github.com/XGR-Development/Collapse-vscode-theme/blob/main/static/collapse-purple-screenshot.png)
 
-## Color Palette (Outdated | Obsolete)
+## Color Palette
+Not to work less but I am not used to Markdown so palettes are a bit harsh to write. Anyway, nothing as simple as to check the colors thanks to the screenshots or by directly downloading the extension and seeing it yourself !
+
 #### **Collapse Dark**
 
 Just check out the colors in :  
