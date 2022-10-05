@@ -18,7 +18,10 @@
         "settings.headerForeground": "#af60cece",
         "window.activeBorder": "#cc8bf1",
         "window.inactiveBorder":"#cc8bf1",
+
         "settings.modifiedItemIndicator": "#a849df",
+        "settings.checkboxBackground": "#d0a3ea",
+        "settings.checkboxForeground": "#4f1471",
 
         "toolbar.activeBackground": "#202330",
         "toolbar.hoverBackground": "#202330",
@@ -61,6 +64,8 @@
         "activityBar.activeBackground": "#200d24",
         "activityBar.inactiveForeground": "#cc8bf190",
         "activityBar.border": "#2a0e31",
+        "activityBarBadge.background": "#d5a6f0",
+        "activityBarBadge.foreground": "#200d24",
 
         "tree.indentGuidesStroke": "#cc8bf1",
         "sideBar.foreground": "#cc8bf180",
@@ -88,10 +93,6 @@
         "list.invalidItemForeground": "#c97018",
         "list.errorForeground": "#e3858e",
         "list.warningForeground": "#c49a5a",
-
-        "listFilterWidget.background": "#ff0000",
-        "listFilterWidget.outline": "#ff0000",
-        "listFilterWidget.noMatchesOutline": "#a6333f",
 
         "pickerGroup.foreground": "#cc8bf180",
         "pickerGroup.border": "#cc8bf180",
@@ -164,7 +165,7 @@
         "editorOverviewRuler.deletedForeground": "#703438",
 
         "editorRuler.foreground": "#101014",
-        "editorError.foreground": "#00fff7",
+        "editorError.foreground": "#e3858e",
         "editorWarning.foreground": "#e0af68",
         "editorInfo.foreground": "#0da0ba",
         "editorHint.foreground": "#0da0ba",
@@ -256,6 +257,12 @@
         "statusBar.noFolderBackground": "#18081c",
         "statusBar.debuggingBackground": "#18081c",
         "statusBar.debuggingForeground": "#cc8bf1",
+
+        "debugIcon.stopForeground": "#e3858e",
+        "debugIcon.continueForeground": "#cc8bf1",
+        "debugIcon.pauseForeground": "#cc8bf1",
+        "debugIcon.startForeground": "#cc8bf1",
+        "debugIcon.restartForeground": "#ff5f8f",
 
         "statusBarItem.activeBackground": "#48366bbb",
         "statusBarItem.hoverBackground": "#5b4489bb",

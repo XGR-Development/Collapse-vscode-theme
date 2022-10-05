@@ -11,7 +11,7 @@ Collapse Purple
 
 ## Color Palette (Outdated | Obsolete)
 #### Collapse Dark
-| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
+| Color | HexColor | Use |
 | ---------- | ------------------------------------------------------------ |
 | ![#f7768e](https://place-hold.it/15/f7768e/f7768e?text=+) `#f7768e` | This keyword, HTML elements, Regex group symbol, CSS units, Terminal Red |
 | ![#ff9e64](https://place-hold.it/15/ff9e64/ff9e64?text=+) `#ff9e64` | Number and Boolean constants, Language support constants |
@@ -53,3 +53,7 @@ Collapse Purple
 | ![#414868](https://place-hold.it/15/414868/414868?text=+) `#414868` | Terminal Black |
 | ![#24283b](https://place-hold.it/15/24283b/24283b?text=+) `#24283b` | Editor Background (Storm) |
 | ![#1a1b26](https://place-hold.it/15/1a1b26/1a1b26?text=+) `#1a1b26` | Editor Background (Night) |
+
+## Others
+
+- Screenshots font - [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
