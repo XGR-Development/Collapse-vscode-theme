@@ -10,16 +10,16 @@ Collapse Purple
 ![Screenshot - Collapse Purple](https://github.com/XGR-Development/Collapse-vscode-theme/blob/main/static/collapse-purple-screenshot.png)
 
 ## Color Palette (Outdated | Obsolete)
-#### Collapse Dark
+#### **Collapse Dark**
 
-Just check out the colors in :
+Just check out the colors in :  
 `.vscode/extension/xgr-collapse-v0.1.0/themes/Collapse Dark-color-theme.json`
 
 The colors are basically : Black and gray (mostly for the backgrounds) & pastel style colors not to hurt eyes.
 
-#### Collapse Purple
+#### **Collapse Purple**
 
-Just check out the colors in :
+Just check out the colors in :  
 `.vscode/extension/xgr-collapse-v0.1.0/themes/Collapse Purple-color-theme.json`
 
 The colors are basically : Purple, Pink, Blue & a bit of yellow, orange and red.
